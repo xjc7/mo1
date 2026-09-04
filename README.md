@@ -1,2 +1,2 @@
-Collaborative Particle Swarm Optimization algorithm Based on Federated Learning for UAV Base Station Deployment
-Multi-process parallel control
+#基于联邦学习的协同粒子群优化算法用于无人机基站部署
+#多进程并行控制
